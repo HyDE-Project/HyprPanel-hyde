@@ -13,4 +13,5 @@ Add `/hyprpanel.dcol` to ` ~/.config/hyde/wallbash/Wall-Ways` or `~/.config/hyde
 * You can make this template better by adding more contrast on some elements
 * No breaking changes please
 * Feel free to open PR for color corrections!
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3TECUZ) 
+ 
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3TECUZ) 
