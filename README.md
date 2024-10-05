@@ -8,7 +8,7 @@ This template is designed for use with HyprPanel. For more information, visit [H
 
 ## Usage
 
-Add the file `/hyprpanel.dcol` to either `~/.config/hyde/wallbash/Wall-Ways` or `~/.config/hyde/wallbash/Wall-Dcol`.
+Add the file [/hyprpanel.dcol](https://github.com/HyDE-Project/HyprPanel/blob/3f20c8922d7c3547688a2b16eb74846170a9f224/hyprpanel.dcol) to either `~/.config/hyde/wallbash/Wall-Ways` or `~/.config/hyde/wallbash/Wall-Dcol`.
 
 ### Difference Between Wall-Ways and Wall-Dcol
 
