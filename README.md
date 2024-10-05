@@ -1,5 +1,10 @@
 # HyprPanel wallbash template
 
+![241005_14h24m09s_screenshot](https://github.com/user-attachments/assets/355aa7f0-856b-47f6-8ced-58bc0c4a3481)
+![241005_14h26m11s_screenshot](https://github.com/user-attachments/assets/e7551bec-573c-4d37-91b9-de9400176cac)
+![241005_14h19m51s_screenshot](https://github.com/user-attachments/assets/11f40837-08fe-4979-b16e-b1d0a6fd4fcd)
+
+
 ### Wallbash Template for HyprPanel
 
 This template is designed for use with HyprPanel. For more information, visit [HyprPanel](https://hyprpanel.com/).
