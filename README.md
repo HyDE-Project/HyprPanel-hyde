@@ -1,7 +1,9 @@
-# hyprpanel
+# hyprpanel wallbash template
 Wallbash template for hyprpanel. See https://hyprpanel.com/
 
-#Usage
+>[! NOTE] This is not a standalone package and be sure to have HyDe installed also be sure to have a working hyprpanel!
+
+# Usage
 Add `/hyprpanel.dcol` to ` ~/.config/hyde/wallbash/Wall-Ways` or `~/.config/hyde/wallbash/Wall-Dcol` 
 
 ### Difference of Wall-Ways and Wall-Dcol 
