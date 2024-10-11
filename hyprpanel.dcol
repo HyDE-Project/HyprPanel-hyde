@@ -1,4 +1,4 @@
-${cacheDir}/landing/hyprpanel_wallbash.json | ags -r "useTheme('${cacheDir}/landing/hyprpanel_wallbash.json')"
+${cacheDir}/landing/wallbash-hyprpanel.json | ags -r "useTheme('${cacheDir}/landing/wallbash-hyprpanel.json')"
 {
   "theme.bar.menus.background": "#<wallbash_pry1>",
   "theme.bar.background": "#<wallbash_pry1>",
