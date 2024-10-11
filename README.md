@@ -24,20 +24,20 @@ Add the file [/hyprpanel.dcol](https://github.com/HyDE-Project/HyprPanel/blob/3f
 
 1. **Header Line**:
     ```sh
-    ${cacheDir}/landing/hyprpanel_wallbash.json | ags -r "useTheme('${cacheDir}/landing/hyprpanel_wallbash.json')"
+    ${cacheDir}/landing/wallbash-hyprpanel.json | ags -r "useTheme('${cacheDir}/landing/wallbash-hyprpanel.json')"
     ```
     This command sets the theme using the cached wallbash-generated `.json` file.
     `$cacheDir` is the path to `~/.cache/hyde/`.
 
 2. **Wallbash Generation**:
     ```sh
-    ${cacheDir}/landing/hyprpanel_wallbash.json
+    ${cacheDir}/landing/wallbash-hyprpanel.json
     ```
     This command generates the wallbash `.json` file.
 
 3. **Optional Command**:
     ```sh
-    ags -r "useTheme('${cacheDir}/landing/hyprpanel_wallbash.json')"
+    ags -r "useTheme('${cacheDir}/landing/wallbash-hyprpanel.json')"
     ```
     This command uses the cached wallbash-generated `.json` file to set the theme.
 
