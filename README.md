@@ -15,6 +15,9 @@ This template is designed for use with HyprPanel. For more information, visit [H
 
 Add the file [/hyprpanel.dcol](https://github.com/HyDE-Project/HyprPanel/blob/3f20c8922d7c3547688a2b16eb74846170a9f224/hyprpanel.dcol) to either `~/.config/hyde/wallbash/Wall-Ways` or `~/.config/hyde/wallbash/Wall-Dcol`.
 
+## Optional
+The panel pretty much comes with its own set of defaults, but if you would like to use the old hyprdots stuffs, you can use the `hyprpanel_config.json`
+
 ### Difference Between Wall-Ways and Wall-Dcol
 
 - **Wall-Ways**: This file is always used regardless of the theme mode or wallbash mode.
